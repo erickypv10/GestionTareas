@@ -30,7 +30,6 @@ namespace Gestion_de_Tareas.Controllers
             {
                 Id = t.Id,
                 Descripcion = t.Descripcion,
-                Completada = t.Completada,
                 UsuarioId = t.UsuarioId
             }).ToListAsync();
         }
@@ -51,6 +50,7 @@ namespace Gestion_de_Tareas.Controllers
             {
                 Id = tarea.Id,
                 Descripcion = tarea.Descripcion,
+                Estado = tarea.Estado,
                 UsuarioId = tarea.UsuarioId // Solo el ID del usuario
             };
 
@@ -78,7 +78,7 @@ namespace Gestion_de_Tareas.Controllers
 
             // Actualizar las propiedades de la tarea existente
             tareaExistente.Descripcion = tareaDto.Descripcion;
-            tareaExistente.Completada = tareaDto.Completada;
+            tareaExistente.Estado = tareaDto.Estado;
             tareaExistente.UsuarioId = tareaDto.UsuarioId; // Asegúrate de que el UsuarioId sea válido
 
             // Marcar la entrada como modificada
@@ -121,7 +121,7 @@ namespace Gestion_de_Tareas.Controllers
             var tarea = new Tarea
             {
                 Descripcion = tareaDto.Descripcion,
-                Completada = tareaDto.Completada,
+                Estado = tareaDto.Estado,
                 UsuarioId = tareaDto.UsuarioId
             };
 
@@ -169,7 +169,7 @@ namespace Gestion_de_Tareas.Controllers
                 {
                     Id = t.Id,
                     Descripcion = t.Descripcion,
-                    Completada = t.Completada,
+                    Estado = t.Estado,
                     UsuarioId = t.UsuarioId
                 })
                 .ToListAsync();
@@ -196,7 +196,7 @@ namespace Gestion_de_Tareas.Controllers
             var tarea = new Tarea
             {
                 Descripcion = tareaDto.Descripcion,
-                Completada = tareaDto.Completada,
+                Estado = tareaDto.Estado,
                 UsuarioId = usuarioId // Asignar el ID del usuario
             };
 
@@ -206,6 +206,10 @@ namespace Gestion_de_Tareas.Controllers
             // Retornar la tarea creada como respuesta
             return CreatedAtAction(nameof(GetTareasPorUsuario), new { usuarioId = usuarioId }, tareaDto);
         }
+
+     
+
+       
     }
 
 
