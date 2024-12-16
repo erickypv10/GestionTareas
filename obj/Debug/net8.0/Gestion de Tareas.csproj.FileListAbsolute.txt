@@ -283,3 +283,9 @@ C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net
 C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\Gestion de Tareas.pdb
 C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\Gestion de Tareas.genruntimeconfig.cache
 C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\ref\Gestion de Tareas.dll
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\bin\Debug\net8.0\Gestion de Tareas.staticwebassets.endpoints.json
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\staticwebassets\msbuild.Gestion de Tareas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AYREBI_LAPTOP-GAMER\Desktop\universidad\Gestion de Tareas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

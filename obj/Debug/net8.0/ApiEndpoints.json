@@ -21,7 +21,7 @@
   },
   {
     "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
-    "Method": "PostTarea",
+    "Method": "Post",
     "RelativePath": "api/Tareas",
     "HttpMethod": "POST",
     "IsController": true,
@@ -73,27 +73,6 @@
   },
   {
     "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
-    "Method": "PutTarea",
-    "RelativePath": "api/Tareas/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "tareaDto",
-        "Type": "Gestion_de_Tareas.DTOs.TareaDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
     "Method": "DeleteTarea",
     "RelativePath": "api/Tareas/{id}",
     "HttpMethod": "DELETE",
@@ -110,52 +89,42 @@
   },
   {
     "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
-    "Method": "GetTareasPorUsuario",
-    "RelativePath": "api/Tareas/usuario/{usuarioId}",
+    "Method": "Put",
+    "RelativePath": "api/Tareas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tareaCracionDto",
+        "Type": "Gestion_de_Tareas.DTOs.TareaCracionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
+    "Method": "GetTareaUsuarioId",
+    "RelativePath": "api/Tareas/buscarPorUsuario",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "usuarioId",
+        "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[Gestion_de_Tareas.DTOs.TareaDto, Gestion de Tareas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Gestion_de_Tareas.Controllers.TareasController",
-    "Method": "AsignarTareaAUsuario",
-    "RelativePath": "api/Tareas/usuario/{usuarioId}",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "usuarioId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "tareaDto",
-        "Type": "Gestion_de_Tareas.DTOs.TareaDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Gestion_de_Tareas.DTOs.TareaDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -292,6 +261,7 @@
         ],
         "StatusCode": 200
       }
-    ]
+    ],
+    "EndpointName": "GetWeatherForecast"
   }
 ]

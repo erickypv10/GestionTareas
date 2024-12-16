@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "RuPLPfAt6YG6DkpZpcZ34hsOvSW8lmMS9TuhIKpwzPE=",
+  "Hash": "fW/hFS++aNFxayKUORDisN/Qyx/aR7aBcK9DCY5avOw=",
   "Source": "Gestion de Tareas",
   "BasePath": "_content/Gestion de Tareas",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
