@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\dtos\\tareacraciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:dtos\\tareacraciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +27,12 @@
       "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\dtos\\tareacraciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:dtos\\tareacraciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\services\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:services\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E563A2EB-1985-4DCA-9005-8703358B3621}|Gestion de Tareas.csproj|c:\\users\\ayrebi_laptop-gamer\\desktop\\universidad\\gestion de tareas\\models\\configuraciones\\tareaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,24 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Services\\AutoMapperConfiguration.cs",
-              "RelativeDocumentMoniker": "Services\\AutoMapperConfiguration.cs",
-              "ToolTip": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Services\\AutoMapperConfiguration.cs",
-              "RelativeToolTip": "Services\\AutoMapperConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T02:59:00.216Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\DTOs\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UsuarioDto.cs",
@@ -100,12 +87,11 @@
               "RelativeToolTip": "DTOs\\UsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:30:24.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T21:30:24.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -113,12 +99,11 @@
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:49:52.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:49:52.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -131,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TareaDto.cs",
               "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\DTOs\\TareaDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TareaDto.cs",
@@ -144,16 +129,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:29:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TareasController.cs",
               "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Controllers\\TareasController.cs",
               "RelativeDocumentMoniker": "Controllers\\TareasController.cs",
               "ToolTip": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Controllers\\TareasController.cs",
               "RelativeToolTip": "Controllers\\TareasController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAArwEMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAApwHAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T20:43:26.076Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Services\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "Services\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Services\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "Services\\AutoMapperConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:59:00.216Z"
             },
             {
               "$type": "Document",
@@ -165,21 +175,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:34:45.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Models\\Tarea.cs",
-              "RelativeDocumentMoniker": "Models\\Tarea.cs",
-              "ToolTip": "C:\\Users\\AYREBI_LAPTOP-GAMER\\Desktop\\universidad\\Gestion de Tareas\\Models\\Tarea.cs",
-              "RelativeToolTip": "Models\\Tarea.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:29:10.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:34:45.283Z"
             },
             {
               "$type": "Document",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "Models\\Configuraciones\\TareaConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:29:06.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:29:06.247Z"
             },
             {
               "$type": "Document",

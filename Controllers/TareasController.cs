@@ -6,6 +6,7 @@ using Gestion_de_Tareas.DTOs;
 using AutoMapper.QueryableExtensions;
 using AutoMapper;
 using System.Reflection.Metadata.Ecma335;
+using static Gestion_de_Tareas.Models.Tarea;
 
 
 namespace Gestion_de_Tareas.Controllers
@@ -106,6 +107,14 @@ namespace Gestion_de_Tareas.Controllers
             await _context.SaveChangesAsync();
             return Ok();
             
+        }
+
+        [HttpGet("porCompletadas")]
+        public async Task<ActionResult<IEnumerable<Tarea>>> GetCompletadas(EstadoTarea estado)
+        {
+           return await _context.Tareas
+                .Where(x => x.Estado == estado)
+                .ToListAsync();
         }
 
         
