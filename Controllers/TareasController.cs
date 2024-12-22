@@ -110,11 +110,19 @@ namespace Gestion_de_Tareas.Controllers
         }
 
         [HttpGet("porCompletadas")]
-        public async Task<ActionResult<IEnumerable<Tarea>>> GetCompletadas(EstadoTarea estado)
+        public async Task<ActionResult<IEnumerable<TareaDto>>> GetCompletadas(EstadoTarea estado)
         {
-           return await _context.Tareas
-                .Where(x => x.Estado == estado)
+           var tarea = await _context.Tareas
+                .Include(t => t.Usuarios)
+                .Where(t => t.Estado == estado).Select(t => 
+                new
+                {
+                    Id = t.Id,
+                    Descripcion = t.Descripcion,
+                    NombreUsuario = t.Usuarios.Nombre
+                })
                 .ToListAsync();
+            return Ok(tarea);
         }
 
         

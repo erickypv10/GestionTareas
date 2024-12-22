@@ -260,7 +260,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Tarea"
+                    "$ref": "#/components/schemas/TareaDto"
                   }
                 }
               },
@@ -268,7 +268,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Tarea"
+                    "$ref": "#/components/schemas/TareaDto"
                   }
                 }
               },
@@ -276,7 +276,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Tarea"
+                    "$ref": "#/components/schemas/TareaDto"
                   }
                 }
               }
